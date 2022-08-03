@@ -88,6 +88,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ## `EDITOR Y PROPIETARIO DEL BOT` 
-`𝔨 𝔯 𝔦 𝔰 𝔲 𝔰 ᵒᶠᶜ ☻︎`
+`𝔨 𝔯 𝔦 𝔰 𝔲 𝔰 ☻︎`
 
 
