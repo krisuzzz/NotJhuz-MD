@@ -1,4 +1,4 @@
-# `𝑁𝑜𝑡 𝐽ℎ𝑢𝑧-𝑀𝐷 `
+# ` 𝙺𝚛𝚒𝚜𝚞𝚣𝚣𝚣`
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
 <a href="http://wa.me/50257681618" target="blank"><img src="https://img.shields.io/badge/JHUSZ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
@@ -88,6 +88,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ## `EDITOR Y PROPIETARIO DEL BOT` 
-`𝑁𝑜𝑡 𝐽ℎ𝑢𝑧-𝑀𝐷 __________ By Jhusz?`
+`𝔨 𝔯 𝔦 𝔰 𝔲 𝔰 ᵒᶠᶜ ☻︎`
 
 
