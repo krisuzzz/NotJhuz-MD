@@ -5,10 +5,11 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['50257681618', '𝐉𝐡𝐮𝐬𝐳ᙆ  ᷦ×͜×', true],
-  ['50230118401', '𝐍𝐨𝐭𝐉𝐡𝐮𝐳ᙆ  ᷦ', true],
+  ['886966522266', 'Marin Bot', true]
 ] // Cambia los numeros que quieras
-global.mods = [] 
+global.mods = [
+  ['50688061538', 'krisuzz', true]
+  ['50660690277', 'addis', true] 
 global.prems = [] 
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -63,11 +64,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '𝐉𝐡𝐮𝐬𝐳ᙆ  ᷦ×͜×'
-global.author = '★ 𝐍𝐨𝐭𝐉𝐡𝐮𝐳ᙆ  ᷦ★'
+global.packname = 'kriuzz'
+global.author = 'krisuzz'
 
-global.wm = '★ 𝐍𝐨𝐭𝐉𝐡𝐮𝐳ᙆ  ᷦ★'
-global.igfg = '★ 𝐍𝐨𝐭𝐉𝐡𝐮𝐳ᙆ  ᷦ★'
+global.wm = 'krisuzz'
+global.igfg = 'krisuzz'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
