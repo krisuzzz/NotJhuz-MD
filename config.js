@@ -5,7 +5,9 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['886966522266', 'Marin Bot', true]
+  ['50688061538', 'krisuzz', true]
+  ['50660690277', 'addis', true]
+  ['50687459320', 'awacaditto', true]
 ] // Cambia los numeros que quieras
 global.mods = [
   ['50688061538', 'krisuzz', true]
@@ -64,7 +66,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'kriuzz'
+global.packname = 'Marin Bot'
 global.author = 'krisuzz'
 
 global.wm = 'krisuzz'
